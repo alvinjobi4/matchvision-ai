@@ -99,13 +99,13 @@ matchvision-ai/
 
 
 📈 Future Enhancements
-🔄 Live match tracking with real-time updates
-📊 Advanced analytics dashboard (heatmaps, xG, player metrics)
-📅 Fixture calendar integration
-🏆 League table and standings visualization
-🔔 Match alerts & notifications
-📱 Progressive Web App (PWA) support
-🧠 Improved ML-based prediction engine
-🌐 Multi-language chatbot support
-👤 User accounts with saved favorite teams
-📊 Historical performance comparison tool
+  🔄 Live match tracking with real-time updates
+  📊 Advanced analytics dashboard (heatmaps, xG, player metrics)
+  📅 Fixture calendar integration
+  🏆 League table and standings visualization
+  🔔 Match alerts & notifications
+  📱 Progressive Web App (PWA) support
+  🧠 Improved ML-based prediction engine
+  🌐 Multi-language chatbot support
+  👤 User accounts with saved favorite teams
+  📊 Historical performance comparison tool
