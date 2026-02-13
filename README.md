@@ -95,7 +95,7 @@ matchvision-ai/
 
 ---
 🌍 Live Demo
-(Add deployment link here once hosted)
+https://matchvision-ai.vercel.app/
 
 
 📈 Future Enhancements
